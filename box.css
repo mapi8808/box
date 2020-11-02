@@ -1,0 +1,27 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  margin: 30px;
+  padding: 30px;
+}
+
+
+.box2{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 5px solid yellow;
+  /* borderは、要素に枠線を指定するプロパティ */
+  /* border（枠線）には、solidのほかに、double（二重線）、dashed（破線）、
+  dotted（点線）などがあります。 */
+}
+
+.box3{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  border: 5px double black;
+  margin: 10px;
+  padding: 10px;
+}
